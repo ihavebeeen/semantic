@@ -64,3 +64,5 @@ Thumbs.db
 
 # Workspace files
 workspace.code-workspace
+
+.vercel
